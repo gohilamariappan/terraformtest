@@ -1,12 +1,12 @@
 variable "aws_access_key_id"
 {
-default = "AKIA43TDO64MN6OGGA4U"
+default = ""
 }
 
 variable "aws_secret_access_key"
 {
 
-default = "6iUy7InopXYgYRMlf4VYwq50lxdJWdIcLKB1Rnmx"
+default = ""
 }
 variable "ami_id" {
 type = "list"
